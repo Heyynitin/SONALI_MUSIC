@@ -12,14 +12,14 @@ BOT_TOKEN = getenv("BOT_TOKEN", None)
 
 # ===============================================
 
-OWNER_ID = int(getenv("OWNER_ID", 7473021518))
-OWNER_USERNAME = getenv("OWNER_USERNAME", "TheSigmaCoder")
+OWNER_ID = int(getenv("OWNER_ID", 8563864709))
+OWNER_USERNAME = getenv("OWNER_USERNAME", "URERYX")
 LOGGER_ID = int(getenv("LOGGER_ID", None))
 
 # ===============================================
 
-BOT_USERNAME = getenv("BOT_USERNAME", "Sonali_Music_bot")
-BOT_NAME = getenv("BOT_NAME", "Sonali Music")
+BOT_USERNAME = getenv("BOT_USERNAME", "ERYX_MUSIC_BOT")
+BOT_NAME = getenv("BOT_NAME", "Eryx Music")
 
 # ===============================================
 
@@ -39,8 +39,8 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # ===============================================
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/PURVI_BOTS")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/PURVI_UPDATES")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/URERYX_DIARY")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/URERYX_DIARY")
 
 # ===============================================
 
