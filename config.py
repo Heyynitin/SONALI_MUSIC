@@ -33,14 +33,14 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 
 # ===============================================
 
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/TEAMPURVI/SONALI_MUSIC")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://t.me/URERYX_DIARY")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)  
 
 # ===============================================
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/PURVI_BOTS")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/PURVI_UPDATES")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/URERYX_DIARY")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/URERYX")
 
 # ===============================================
 
@@ -76,11 +76,11 @@ confirmer = {}
 
 # ===============================================
 
-START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/6borug.jpg")
-PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/9cevdg.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/mzzuis.jpg")
+PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/mzzuis.jpg")
 
-PLAYLIST_IMG_URL = "https://files.catbox.moe/i493lf.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/i0qmgf.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/mzzuis.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/mzzuis.jpg"
 TELEGRAM_AUDIO_URL = "https://telegra.ph/file/8e3552aa743ffdb6f18c9.jpg"
 TELEGRAM_VIDEO_URL = "https://telegra.ph/file/8e3552aa743ffdb6f18c9.jpg"
 STREAM_IMG_URL = "https://te.legra.ph/file/bd995b032b6bd263e2cc9.jpg"
